@@ -233,3 +233,11 @@ main {
   color: var(--clr-white);
   background: var(--clr-black);
 }
+footer{
+  text-align: center;
+  background: var(--clr-white);
+  height: 3rem;
+  display: grid;
+  align-items: center;
+  box-shadow: var(--dark-shadow);
+}
